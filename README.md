@@ -1,70 +1,58 @@
-# Getting Started with Create React App
+This repo contains all the files to follow along and implement the Amazing Web3 Front End Design using React + CSS and Bootstrap.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+VIDEO PART 2 Front end Design CSS - Bootstrap
 
-## Available Scripts
+Install Dependencies:
+npm i bootstrap@5.2.0-beta1
 
-In the project directory, you can run:
+npm i react-bootstrap
 
-### `npm start`
+npm i sf-font
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+2- Replace files in your React project with the files attached, then start server " npm run start "
 
-### `npm test`
+############################################################
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+VIDEO PART 3 HTML Debug and API AXIOS React Config
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+2- Stop React server, Replace files in your React project with the files attached, then start server " npm run start "
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+############################################################
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Optimize React JS ABI JSON Import
 
-### `npm run eject`
+Go to ABI in app.js Import Folder in this Repo
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+2- Stop React server, Replace files in your React project with the files attached, then start server " npm run start "
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+############################################################
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Advanced ReactJS Async Connect Function
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Stop React App, then install dependencies
 
-## Learn More
+npm i web3modal
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+npm i @walletconnect/web3-provider
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+npm i walletlink
 
-### Code Splitting
+npm i web3
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Fix Webpack limitation for Web3js: https://www.youtube.com/watch?v=IHrcFo1MX60
 
-### Analyzing the Bundle Size
+then go to app.js Folder in this Repo: Replace App.js in your React project with the file attached, then start server " npm run start "
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+############################################################
 
-### Making a Progressive Web App
+** THE FILES ATTACHED TO THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY **
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+** NOT FINANCIAL ADVISE **
 
-### Advanced Configuration
+** USE IT AT YOUR OWN RISK** **I'M NOT RESPONSIBLE FOR ANY USE, ISSUES ETC.. **
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+ENJOY A FREE Dapp:)
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+AmiriIlyas FullWeb3Dapp Minting/Staking!!
